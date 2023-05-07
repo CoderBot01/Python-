@@ -15,3 +15,7 @@ for user,rt in users.copy().items():
     elif rt == 'inactive': 
         print(user + ' pulithis')
          
+for i in range(len(words)):
+    print(i,words[i])
+
+         
